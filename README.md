@@ -1,9 +1,17 @@
-# React TypeScript Starter Pack
+To-Do App
+To-Do App is a powerhouse for organizing your daily agenda. Built with React, TypeScript, and a clean BEM-based CSS structure, it allows you to effortlessly add, edit, delete, and complete tasks — keeping your day productive and clear.
 
-To use this template click `Use this template`
+✨ Features
+📋 Add, edit, delete, and mark tasks as complete
 
-### Available Scripts
+⚛️ Built with React + TypeScript for robust performance
 
-`Deploy` - available to deploy your application to gh-pages, to deploy the project, change the second line of code in package.json, specifically the homepage value, from "." to the repository name
+💡 Clean and scalable UI with BEM-structured SCSS
 
-`SCSS Preprocessor` - available to write your styles with modern style language
+🔗 API integration (for extended functionality)
+
+
+🛠️ Technologies
+JavaScript • React • TypeScript • HTML • SCSS (BEM) • API
+
+[Demo]-(https://oleksii-bieliaiev.github.io/todo-app-react-api/)
