@@ -14,4 +14,4 @@ To-Do App is a powerhouse for organizing your daily agenda. Built with React, Ty
 🛠️ Technologies
 JavaScript • React • TypeScript • HTML • SCSS (BEM) • API
 
-[Demo]-(https://oleksii-bieliaiev.github.io/todo-app-react-api/)
+-[Demo](https://oleksii-bieliaiev.github.io/todo-app-react-api/)
